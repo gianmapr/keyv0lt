@@ -9,7 +9,7 @@ For first you need to open the .cs file with any text editor and go to *line 67*
 ## notes
 You need to enable **"untrusted apps"** on the Google Account dashboard for the client-mail account.
 
-The most part of antiviruses detects this keylogger as virus. To prevent this, you need to hide it with a **rootkit**.
+The most part of antiviruses detects this keylogger as virus. To prevent this, you need to hide it with a **rootkit**. (I don't provide malwares so not ask me to do it.)
 
 
 Developed by gianmapr.
